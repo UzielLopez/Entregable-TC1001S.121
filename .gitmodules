@@ -1,0 +1,9 @@
+[submodule "Paint"]
+	path = Paint
+	url = https://github.com/UzielLopez/Paint
+[submodule "Snake"]
+	path = Snake
+	url = https://github.com/UzielLopez/Snake
+[submodule "Pacman"]
+	path = Pacman
+	url = https://github.com/UzielLopez/Pacman
